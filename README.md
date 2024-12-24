@@ -3,15 +3,14 @@
 ---
 ### **Contents**
 
-
--[Project Overview](#Project Overview)
--[Installation Steps](#Installation Steps)
--[Live Demo](#Live Demo)
--[Technical Workflow](#Technical Workflow)
--[Model Evaluation](#Model Evaluation)
--[Dataset Details](#Dataset Details)
--[Exploratory Models](#Exploratory Models)
--[Resources and Citations](#Resources and Citations)
+- [Project Overview](#Project Overview)
+- [Installation Steps](#Installation Steps)
+- [Live Demo](#Live Demo)
+- [Technical Workflow](#Technical Workflow)
+- [Model Evaluation](#Model Evaluation)
+- [Dataset Details](#Dataset Details)
+- [Exploratory Models](#Exploratory Models)
+- [Resources and Citations](#Resources and Citations)
 ---
 
 ### **Project Overview**
@@ -77,6 +76,11 @@ Utilized MediaPipe Holistic for hand gesture and pose recognition.
 
 ### **Resources and Citations**
 https://docs.ovh.com/asia/en/publiccloud/ai/training/web-service-yolov5/
+
+
+
+
+
 
 
 
