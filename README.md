@@ -13,7 +13,7 @@
 - [Resources and Citations](#Resources and Citations)
 ---
 
-### *Project Overview*
+# *Project Overview*
 In this presentation, we will be showcasing a Computer Vision demo utilizing YOLOv5 applied to an American Sign Language dataset containing 26 classes. Our model is capable of recognizing signs in real-time, as well as through input images or audio, and generates bounding boxes displaying labels along with confidence scores. This interactive demonstration is implemented using Streamlit, which allows for image input and intuitive user engagement.
 ---
 
